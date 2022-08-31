@@ -1,0 +1,46 @@
+h1 {
+    color: blue;
+    background-color: red;
+}
+
+h2 {
+    color: rgb(255, 0, 0);
+    background-color: orange;
+}
+
+h3 {
+    color: rgba(0, 255, 0, .9);
+    background-color: yellow;
+}
+
+h4 {
+    color: #FF00FF;
+    background-color: green;
+}
+
+h5 {
+    color: #F0A;
+    background-color: blue;
+}
+
+h6 {
+    color: #AF08;
+    background-color: indigo;
+}
+
+p {
+    color: #F8FF0AFF;
+    background-color: violet;
+}
+
+#One {
+    color: hotpink;
+}
+
+#Three {
+    background-color: peachpuff;
+}
+
+.List {
+    border: 5px solid black;
+}
